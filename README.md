@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working as a **Full Stack Developer**
-- 👨‍💻 2021 goals: **Contribute to Open Source Projects and Learn AI**
+- 👨‍💻 2024 goals: **Contribute to Open Source Projects and Learn AI**
 - ⚡ Fun fact **I love game development**
 
 ## 🚀 Languages and Tools:
